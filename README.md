@@ -160,7 +160,7 @@ This policy is effective as of <strong>2021-09-09</strong>.
 
 <p>
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact
-me at <strong>ondergulsevdi@icloud.com</strong>.
+me at <strong>aykut.yilmaz@icloud.com</strong>.
 </p>
 
 </body>
